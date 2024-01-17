@@ -11,8 +11,6 @@
 
 <a href="">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://Instagram.com/stylish_chiku_440)</a> <a href="">[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Krish00424)</a>
 
-## GitHub Stats:
-
 <h1 align="center"> 📊 GitHub Stats: </h1>
 
 <div align="center"> 
