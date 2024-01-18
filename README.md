@@ -9,7 +9,7 @@
 
 <div align="center"> 
 
-<a href="">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://Instagram.com/stylish_chiku_440)</a> <a href="">[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Krish00424)</a>
+<a href="">[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue.svg)](https://t.me/Krish_440)</a> <a href="">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://Instagram.com/stylish_chiku_440)</a> <a href="">[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Krish00424)</a>
 
 <h1 align="center"> 📊 GitHub Stats: </h1>
 
