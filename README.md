@@ -1,9 +1,7 @@
 <h1 align="center"> 💫 About Me Krish </h1>
-<h3 align="center">Just a Random guy who is building his own world</h3>
+<h3 align="center">Just a Random tech guy</h3>
 
 [![](https://visitcount.itsvg.in/api?id=MoonWalker440&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
-- 🔭 Want to create a **better world**
 
 <h1 align="center"> 🌐 Socials: </h1>
 
