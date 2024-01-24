@@ -5,7 +5,7 @@
 - 17 years boy  
 - Love tech and always curious to know more about it
 - Live in India 
-- **"If you change your mindset, you have the ability to change your whole world"** **Damier Thomas**
+- **"If you change your mindset, you have the ability to change your whole world"** -- **Damier Thomas**
 - **"Programmers are the wizards of tomorrow, turning magical incantations into wondrous creations 🔮✨"**
 
 [![](https://visitcount.itsvg.in/api?id=MoonWalker440&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
