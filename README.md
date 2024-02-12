@@ -1,5 +1,3 @@
-<h1 align="center">Hii, I'm Krish !! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> </h1>
-
 [![GitHub Logo](https://graph.org//file/3ad2426f5e138cb0bf0d5.jpg)](https://github.com/MoonWalker440/MoonWalker440)
 
 
@@ -33,10 +31,11 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian2.svg">
 
 
+
 [![](https://visitcount.itsvg.in/api?id=MoonWalker440&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
-<h1 align="center"> 📊 GitHub Stats: </h1>
+<h1 align="center"> 📊 GitHub Stats : </h1>
 
 <div align="center"> 
 
