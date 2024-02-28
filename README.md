@@ -1,5 +1,6 @@
 [![GitHub Logo](https://graph.org//file/3ad2426f5e138cb0bf0d5.jpg)](https://github.com/MoonWalker440/MoonWalker440)
 
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025) 
 
 ## Contact & Socials :
 
@@ -21,6 +22,8 @@
 <a href="mailto:Krishnendudeveloper2006@outlook.com">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg">
 
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
+
 ## Tools & Software I Use :)
 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg"> 
@@ -30,7 +33,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian2.svg">
 
-
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
 
 [![](https://visitcount.itsvg.in/api?id=MoonWalker440&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
