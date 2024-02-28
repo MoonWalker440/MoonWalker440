@@ -33,10 +33,9 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian2.svg">
 
-[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
-
 [![](https://visitcount.itsvg.in/api?id=MoonWalker440&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
 
 <h1 align="center"> 📊 GitHub Stats : </h1>
 
