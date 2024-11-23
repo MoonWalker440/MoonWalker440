@@ -20,7 +20,7 @@
 <a href="mailto:Krishnendudeveloper2006@outlook.com">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg">
 
-<a href="https://t.me/krish_440">
+<a href="https://t.me/krish_4400">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg">
 
 ## Tools & Software I Use :)
