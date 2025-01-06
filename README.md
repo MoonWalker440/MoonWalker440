@@ -6,10 +6,6 @@
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
 </a>
 
-<a href="https://moonwalker440.github.io/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg">
-  </a>
-
 <a href="https://twitter.com/MoonWalker440">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Twitter Profile"/>
 </a>
